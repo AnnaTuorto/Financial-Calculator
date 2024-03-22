@@ -6,6 +6,11 @@ an investment and a home loan repayment calculator.
 
 import math
 
+divider = "-"*0
+message = "Welcome to the Financial Calculator!"
+print(divider)
+print(message)
+print(divider)
 # The user chooses which calculator to use
 
 print("investment - to calculate the amount of interest " 
